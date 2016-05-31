@@ -10,6 +10,6 @@ Thanks!
 
 ##############################################
 
-![Jaeger Screen](https://raw.github.com/TheNicholsOfCharroth/VIM_Themes/Jaeger.png)
+![Jaeger_Screen](https://raw.githubusercontent.com/TheNicholsOfCharroth/VIM_Themes/Jaeger.png)
 
 
