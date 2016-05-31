@@ -3,7 +3,7 @@
 
 ###############################################
 
-These are a few colorschemes that I bake up using various resources, such as vim.ink, and also by hand. Please feel free to use them or offer suggestions! 
+These are a few colorschemes that I baked up using various resources, such as vim.ink, and also by hand. Please feel free to use them or offer suggestions! 
 
 Thanks!
 -NC
