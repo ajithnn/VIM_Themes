@@ -10,4 +10,6 @@ Thanks!
 
 ##############################################
 
-![Alt text](/TheNicholsOfCharroth/VIM_Themes/Jaeger.png?raw=true "Jaeger")
+![Jaeger Screen](https://raw.github.com/TheNicholsOfCharroth/VIM_Themes/Jaeger.png)
+
+
