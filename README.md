@@ -10,8 +10,8 @@ Thanks!
 
 ##############################################
 #Jaeger
-![Jaeger_Screen](https://raw.githubusercontent.com/TheNicholsOfCharroth/VIM_Themes/master/Jaeger.png =50x?raw=true "Jaeger")
+![Jaeger_Screen](https://raw.githubusercontent.com/TheNicholsOfCharroth/VIM_Themes/master/Jaeger.png =50x)
 #Jagpanther
-![Jagpanther_Screen](https://raw.githubusercontent.com/TheNicholsOfCharroth/VIM_Themes/master/Jagpanther.png =50x?raw=true "Jagpanther")
+![Jagpanther_Screen](https://raw.githubusercontent.com/TheNicholsOfCharroth/VIM_Themes/master/Jagpanther.png =50x)
 #PistachioWarrior
-![PistachioWarrior_Screen](https://raw.githubusercontent.com/TheNicholsOfCharroth/VIM_Themes/master/PistachioWarrior.png =50x?raw=true "PistachioWarrior")
+![PistachioWarrior_Screen](https://raw.githubusercontent.com/TheNicholsOfCharroth/VIM_Themes/master/PistachioWarrior.png =50x)
