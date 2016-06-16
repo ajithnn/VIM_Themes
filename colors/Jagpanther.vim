@@ -1,7 +1,7 @@
 hi clear
 syntax reset
 let g:colors_name = "Jagpanther"
-if &background == "light"
+if &background == "dark"
     hi Boolean gui=NONE guifg=#707070 guibg=NONE
     hi ColorColumn gui=NONE guifg=NONE guibg=#f5f5f5
     hi Comment gui=NONE guifg=#969696 guibg=NONE
